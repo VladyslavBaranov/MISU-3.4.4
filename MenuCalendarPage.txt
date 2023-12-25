@@ -1,0 +1,80 @@
+//
+//  MenuCalendarPage.swift
+//  MISU-Test
+//
+//  Created by Vladyslav Baranov on 12.07.2022.
+//
+
+import SwiftUI
+/*
+struct MenuCalendarPage: View {
+    
+    @Environment(\.presentationMode) var mode
+    
+    var body: some View {
+        VStack(spacing: 0) {
+            Color.white
+                .frame(height: 30)
+            ZStack {
+                HStack {
+                    Button {
+                        mode.wrappedValue.dismiss()
+                    } label: {
+                        Image("orange_back")
+                            .font(.system(size: 24))
+                    }
+                    Spacer()
+                    Button {
+                    } label: {
+                        Text(locStr("mah_str_7"))
+                            .foregroundColor(Color(Style.TextColors.mainRed))
+                            .font(CustomFonts.createInter(weight: .regular, size: 16))
+                    }
+                }
+                Text("Календар")
+                    .foregroundColor(Color(Style.TextColors.commonText))
+                    .font(CustomFonts.createInter(weight: .semiBold, size: 16))
+            }
+            .padding(EdgeInsets(top: 30, leading: 16, bottom: 20, trailing: 16))
+            .background(Color.white)
+            .foregroundColor(.black)
+            
+            ScrollView {
+                
+                VStack {
+                    ZStack {
+                        MenuCalendarView(showsMore: false) {
+                            
+                        }
+                        .padding(.bottom, 20)
+                        .background(Color.white)
+                        
+                    }
+                   
+                    HStack {
+                        Text("Цього дня:")
+                            .font(CustomFonts.createInter(weight: .regular, size: 18))
+                            .foregroundColor(Color(Style.TextColors.commonText))
+                        Spacer()
+                    }
+                    .padding(16)
+                    Color.clear
+                        .frame(height: 30)
+                    Image("NoEvents")
+                        .resizable()
+                        .scaledToFit()
+                        .frame(width: UIScreen.main.bounds.width * 0.35)
+                    Color.clear
+                        .frame(height: 10)
+                    Text("Запланованих подій немає")
+                        .font(CustomFonts.createInter(weight: .bold, size: 22))
+                        .foregroundColor(Color(Style.TextColors.commonText))
+                }
+            }
+        }
+        .background(Color(red: 0.98, green: 0.98, blue: 1))
+        .navigationBarHidden(true)
+        .ignoresSafeArea()
+    }
+}
+*/

@@ -1,0 +1,373 @@
+/* 
+  Localizable.strings
+  CoronaVirTracker
+
+  Created by Dmitriy Kruglov on 4/2/20.
+  Copyright © 2020 CVTCompany. All rights reserved.
+*/
+
+"Age" = "Age";
+"Gender" = "Gender";
+"Save" = "Save";
+"Cancel" = "Cancel";
+"Select your health status (well, weak, ill)" = "Select your health status (well, weak, ill)";
+"Log out" = "Log out";
+"List" = "List";
+"Map" = "Map";
+"Medical ID" = "Medical ID";
+"Select symptoms" = "Select symptoms";
+"High temperature" = "High temperature";
+"Low temperature" = "Low temperature";
+"Weakness" = "Weakness";
+"Feel bad" = "Feel bad";
+"Feel dizzy" = "Feel dizzy";
+"Coughing" = "Coughing";
+"Cough" = "Cough";
+"Sneezing" = "Sneezing";
+"Stuffy nose" = "Stuffy nose";
+"Sore throat" = "Sore throat";
+"Headache" = "Headache";
+"Earache" = "Earache";
+"Cold" = "Cold";
+"High blood pressure" = "High blood pressure";
+"Very high blood pressure" = "Very high blood pressure";
+"Low blood pressure" = "Low blood pressure";
+"Fever" = "Fever";
+"Edit" = "Edit";
+"none" = "-";
+"male" = "male";
+"female" = "female";
+"All" = "All";
+"all" = "All";
+"Today only" = "Today only";
+"Statistic" = "Statistic";
+"Your location" = "Your location";
+"Temperature" = "Temperature";
+"well" = "well";
+"weak" = "weak";
+"ill" = "ill";
+"What I do" = "What I do";
+"Symptoms" = "Symptoms";
+"Search" = "Search";
+"Done" = "Done";
+"Location" = "Location";
+"You can choose your exact address or just your city or your other specific location" = "You can choose your exact address or just your city or your other specific location";
+"Your Medical Card" = "Your Medical Card";
+"Next" = "Next";
+"Back" = "Back";
+"Another email" = "Another email";
+"Send again" = "Send again";
+"Welcome\nLet's start with your point" = "Welcome\nLet's start with your point";
+"Regular User" = "Regular User";
+"I'm a Doctor" = "I'm a Doctor";
+"or" = "or";
+"What I need ... (medical assistance, food, personal hygiene products ...)" = "What I need ... (medical assistance, food, personal hygiene products ...)";
+"Full name" = "Full name";
+
+"We need" = "We need";
+"We have" = "We have";
+"We got" = "We got";
+
+"Hospital statistics" = "Hospital statistics";
+"Example: medical masks, medicaments, bandages ..." = "Example: medical masks, medicaments, bandages ...";
+"Describe what do you have in abundance ..." = "Describe what do you have in abundance ...";
+"Your diploma number" = "Your diploma number";
+"Your profile is currently verifying..." = "Your data is currently verifying...";
+"Your profile approved" = "Your profile approved";
+"Profile will be approved after verifying your information" = "Profile will be approved after verifying your information";
+"Profile was denied \nPlease, check information" = "Profile was denied \nPlease, check information";
+"Hospital" = "Hospital";
+"Job post" = "Job post";
+"Your full name" = "Your full name";
+"Full Name" = "Full name";
+
+
+
+"Chief Medical Officer (Director)" = "Chief Medical Officer (Director)";
+"Deputy Chief Medical Officer" = "Deputy Chief Medical Officer";
+"Family doctor" = "Family doctor";
+"Head of department" = "Head of department";
+"Deputy Head of Department" = "Deputy Head of Department";
+"Doctor" = "Doctor";
+"Nurse" = "Nurse";
+"Medical worker" = "Medical worker";
+
+"(visible only for you)" = "(visible only for you)";
+
+"Add" = "Add";
+"What does your hospital need?" = "What does your hospital need?";
+"Amount" = "Amount";
+"Name" = "Name";
+
+"Healthy" = "Healthy";
+"Suspicious" = "Suspicious";
+"Sick" = "Sick";
+"Deads" = "Deads";
+
+"News" = "News";
+
+"Doctors" = "Doctors";
+"Hospitals" = "Hospitals";
+"Users" = "Users";
+"Profile" = "Profile";
+
+"well" = "Well";
+"weak" = "Weak";
+"ill" = "Ill";
+"dead" = "Dead";
+
+"Sex" = "Sex";
+"Message" = "Message";
+"Family doctor" = "Family doctor";
+"Position" = "Position";
+"Patients" = "Patients";
+
+"Your profile" = "Your profile";
+"Welcome" = "Welcome";
+"Email or phone" = "Email or phone";
+
+"Log in" = "Log in";
+"Create new" = "Create new";
+
+"Verification code has been sent to your inbox" = "A verification code has been sent to your inbox";
+"Verification code has been sent to your number" = "A verification code has been sent to your number";
+"Send again" = "Send again";
+
+"Select your profile" = "Select your profile";
+"I'm a patient" = "I'm a patient";
+"I'm a doctor" = "I'm a doctor";
+
+"Message" = "Message";
+"Add your family doctor" = "Add your family doctor";
+"Blood sugar (mmol/L)" = "Blood sugar (mmol/L)";
+"Medical tests" = "Medical tests";
+
+"The user did not specify the number" = "The user did not specify the number";
+"All Chats" = "All Chats";
+"See all" = "See all";
+"Settings" = "Settings";
+"Log out" = "Log out";
+"Number of a diploma №..." = "Number of a diploma №...";
+"New message" = "New message";
+"Send" = "Send";
+
+"Phone number" = " Номер телефону";
+
+"Sugar" = "Sugar";
+"Insulin" = "Insulin";
+
+"Insulin (ml)" = "Insulin (ml)";
+"Almost done, last questions" = "Almost done, last questions";
+"Questions?" = "Questions?";
+"Your birthday:" = "Your birthday:";
+"Man" = "Man";
+"Woman" = "Woman";
+
+"Hide" = "Hide";
+"Show" = "Show";
+"Number:" = "Number:";
+
+"Yes" = "Yes";
+"Keep me here" = "Keep me here";
+"Clear cache" = "Clear cache";
+"Medical history" = "Medical history";
+"Clear" = "Clear";
+"Keep" = "Keep";
+
+"Not confirmed yet" = "Not confirmed yet";
+"Passed tests" = "Passed tests";
+"Diagnosed by a doctor" = "Diagnosed by a doctor";
+
+"Sick" = "Sick";
+"Recuperate" = "Recuperate";
+"Chronic" = "Chronic";
+"Select Illness" = "Select Illness";
+"Select" = "Select";
+
+"Today" = "Today";
+"Week" = "Week";
+"Month" = "Month";
+"All time" = "All time";
+
+"Blood oxygen" = "Blood oxygen";
+"Temperature" = "Temperature";
+"Heart rate" = "Heart rate";
+
+"Connect" = "Connect";
+"Disconnect" = "Disconnect";
+"Connected" = "Connected";
+
+"Get MISU Watch" = "Get MISU Watch";
+"Add device" = "Add device";
+
+"state" = "Condition";
+"temperature" = "Temperature";
+"symptoms" = "Symptoms";
+
+"Your recommendations for patient" = "Your recommendations for patient";
+"Recommendations" = "Recommendations";
+"Doctor recommendations" = "Doctor recommendations";
+"All Recommendations" = "All Recommendations";
+
+"More info or Questions" = "More info or Questions";
+
+"Copy" = "Copy";
+
+"Family access" = "Family access";
+"Skip" = "Skip";
+"Invite your family and friends to MISU Family to access each other's health" = "Invite your family and friends to MISU Family to access each other's health";
+"Invitation sent" = "Invitation sent";
+
+"info" = "Information";
+"participants" = "Participants";
+"pending" = "Pending";
+"Accept" = "Accept";
+"Decline" = "Decline";
+"Pending..." = "Pending...";
+"Accepted" = "Accepted";
+"Declined" = "Declined";
+
+"Administrator" = "Administrator";
+"Order" = "Order";
+"Ordered" = "Ordered";
+"Order medicine" = "Order medicine";
+"In pending" = "In pending";
+"Send invite" = "Send invite";
+"Delete Group" = "Delete Group";
+"Leave group" = "Leave Group";
+"Delete participant" = "Delete participant";
+"Delete invite" = "Delete invite";
+"No" = "No";
+
+"Monitor your health easy and automatically" = "Monitor your health easy and automatically";
+"Health Intensive Monitoring" = "Health Intensive Monitoring";
+"Turn on" = "Turn on";
+"Reconnect MISUWatch" = "Reconnect MISUWatch";
+"Try login again" = "Try login again";
+"Activated" = "Activated";
+"NOT Activated" = "NOT Activated";
+"Health parameters are updated once per:" = "Health parameters are updated once per:";
+"minutes" = "minutes";
+
+"Intensive health monitoring - a mode in which your health (heart rate and temperature) will be scanned more often" = "Intensive health monitoring - a mode in which your health (heart rate and temperature) will be scanned more often";
+"Your family doctor and users in your family group will be alerted if the readings are out of range" = "Your family doctor and users in your family group will be alerted if the readings are out of range";
+"In order for the mode to work, you must provide access to the VPN and not turn off the VPN in the settings" = "In order for the mode to work, you must provide access to the VPN and not turn off the VPN in the settings";
+"In order for the mode to work, you must provide access to the VPN and not turn off the VPN in the settings. VPN makes connection between servers, MISU  and MISUWatch more stable and safe" = "In order for the mode to work, you must provide access to the VPN and not turn off the VPN in the settings. VPN makes connection between servers, MISU  and MISUWatch more stable and safe";
+"Try again" = "Try again";
+"Blood pressure" = "Blood pressure";
+"Analyzes" = "Analyzes";
+"For diabetics" = "For diabetics";
+"Help" = "Help";
+
+"We are working on this and will fix it soon" = "We are working on this and will fix it soon";
+"Functionality temporarily unavailable" = "Functionality temporarily unavailable";
+"Okey" = "Okey";
+"Select hospital" = "Select hospital";
+
+"Make sure the MISU Watch is not connected to other devices" = "Make sure the MISU Watch is not connected to other devices";
+"Tap" = "Tap";
+"to reload" = "to reload";
+
+"Watch" = "Watch";
+"Such credentials already taken :(" = "Such credentials already taken :(";
+"Such user does not exist :(" = "Such user does not exist :(";
+
+"Please check your network connection ..." = "Please check your network connection ...";
+"Could not decode the response ..." = "Could not decode the response ...";
+"Error, check data and try again ..." = "Error, check data and try again ...";
+
+"Pressure calibration" = "Pressure calibration";
+"Measure the pressure with a tonometer and enter result:" = "Measure the pressure with a tonometer and enter result:";
+"Tap to edit" = "Tap to edit";
+"Select “Pressure” on the bracelet" = "Select “Pressure” on the bracelet";
+"Press the button as shown in the image" = "Press the button as shown in the image";
+"The data will be received automatically" = "The data will be received automatically";
+"Successful calibration" = "Successful calibration";
+"Processing ..." = "Processing ...";
+"All pressure indicators will be individually adjusted to your characteristics" = "All pressure indicators will be individually adjusted to your characteristics";
+"Calibrate" = "Calibrate";
+"Needs calibration" = "Needs calibration";
+"Updating..." = "Updating...";
+
+"Prevention of Covid-19" = "Prevention of Covid-19";
+"• Keep the rules of hand hygiene. Wash your hands often with soap or treat them with an alcohol-based hand antiseptic. \n• Keep the distance from people who sneezes or coughs. \n• Wear a mask, where you are surrounded by other people. \n• Don't touch your eyes or nose by hand. \n• During sneezing or coughing cover your mouth and nose with an elbow or handkerchief. \n• If you are feeling bad, please, stay home. \n• If you have a fever, cough, or shortness of breath, visit a doctor." = "• Keep the rules of hand hygiene. Wash your hands often with soap or treat them with an alcohol-based hand antiseptic. \n• Keep the distance from people who sneezes or coughs. \n• Wear a mask, where you are surrounded by other people. \n• Don't touch your eyes or nose by hand. \n• During sneezing or coughing cover your mouth and nose with an elbow or handkerchief. \n• If you are feeling bad, please, stay home. \n• If you have a fever, cough, or shortness of breath, visit a doctor.";
+"• If you have a fever, cough, or shortness of breath, visit a doctor." = "• If you have a fever, cough, or shortness of breath, visit a doctor.";
+"visit a doctor." = "visit a doctor.";
+
+"• Tell your doctor about symptoms and history of travel. You need to tell whether you have been in contact with people who could potentially become infected (for example, people who have returned from countries with a local spread of the virus).\n• Follow your doctor's instructions \n\n❌ You do not need to make your own decisions and go for testing for COVID-19\n• Firstly, the decision to make a test is making by your family doctor or therapist. \n• At second, the risk of catching the virus in a laboratory or hospital increases if there is a person with the coronavirus nearby." = "• Tell your doctor about symptoms and history of travel. You need to tell whether you have been in contact with people who could potentially become infected (for example, people who have returned from countries with a local spread of the virus).\n• Follow your doctor's instructions \n\n❌ You do not need to make your own decisions and go for testing for COVID-19\n• Firstly, the decision to make a test is making by your family doctor or therapist. \n• At second, the risk of catching the virus in a laboratory or hospital increases if there is a person with the coronavirus nearby.";
+"❌ You do not need to make your own decisions and go for testing for COVID-19" = "❌ You do not need to make your own decisions and go for testing for COVID-19";
+"What I need to do if I am at risk group" = "What I need to do if I am at risk group";
+
+"Body mass index" = "Body mass index";
+
+"• Body mass index (BMI) - a value that allows you to assess the degree of compliance of human mass and height, and then, indirectly assess whether the mass is insufficient, normal or excessive\n\nAdult BMI Calculator:\nBelow 18.5       Underweight\n18.5—24.9        Normal\n25.0—29.9        Overweight\n30.0 and above   Obese\n\n• BMI is a person’s weight in kilograms divided by the square of height in meters. A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual" = "• Body mass index (BMI) - a value that allows you to assess the degree of compliance of human mass and height, and then, indirectly assess whether the mass is insufficient, normal or excessive\n\nAdult BMI Calculator:\nBelow 18.5       Underweight\n18.5—24.9        Normal\n25.0—29.9        Overweight\n30.0 and above   Obese\n\n• BMI is a person’s weight in kilograms divided by the square of height in meters. A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual";
+"Adult BMI Calculator:" = "Adult BMI Calculator:";
+"Underweight" = "Underweight";
+"Normal" = "Normal";
+"Overweight" = "Overweight";
+"Obese" = "Obese";
+"Below 18.5       Underweight" = "Below 18.5       Underweight";
+"18.5—24.9        Normal" = "18.5—24.9        Normal";
+"25.0—29.9        Overweight" = "25.0—29.9        Overweight";
+"30.0 and above   Obese" = "30.0 and above   Obese";
+
+"• Apnea or temporary cessation of respiratory movements during sleep.\n\n• The most common symptom is snoring in sleep" = "• Apnea or temporary cessation of respiratory movements during sleep.\n\n• The most common symptom is snoring in sleep";
+
+"Undefined" = "Undefined";
+"Risk group covid" = "Risk group covid";
+"Body mass index" = "Body mass index";
+"Weight" = "Weight";
+"Height (cm)" = "Height (cm)";
+"Height" = "Height";
+"Body mass index" = "Body mass index";
+"Syndrome" = "Syndrome";
+"Add vaccine" = "Add vaccine";
+"Recommendation" = "Recommendation";
+"Determine the risk" = "Determine the risk";
+"Diagnosed" = "Diagnosed";
+"Undiagnosed" = "Undiagnosed";
+"Information is updated" = "Information is updated";
+"Select vaccine and date of vaccination" = "Select vaccine and date of vaccination";
+"Fill in all the fields below" = "Fill in all the fields below";
+"Yes, diagnosed" = "Yes, diagnosed";
+"No, undiagnosed" = "No, undiagnosed";
+"Have you ever been diagnosed with sleep apnea?" = "Have you ever been diagnosed with sleep apnea?";
+"Sleep apnea" = "Sleep apnea";
+"Give answers to question" = "Give answers to question";
+"You are in group of risk" = "You are in group of risk";
+"You are not in group of risk" = "You are not in group of risk";
+"Input your weight and Height" = "Input your weight and Height";
+"The value is in group of risk" = "The value is in group of risk";
+"The value is normal" = "The value is normal";
+"Fill in the information" = "Fill in the information";
+"Okay" = "Okay";
+"There is no added vaccines"  = "There is no added vaccines";
+"List of your vaccines"  = "List of vaccines";
+
+"Total" = "Total";
+"Sleep" = "Sleep";
+"h" = "h";
+"m" = "m";
+"Awake" = "Awake";
+"REM" = "REM";
+"Begin" = "Begin";
+"Deep" = "Deep";
+"Light" = "Light";
+
+"A Light sleep is a slow sleep, but not in its deepest manifestations, during which you can wake up easy. The average duration of one \"phase\" of light sleep is about 20 minutes." = "A Light sleep is a slow sleep, but not in its deepest manifestations, during which you can wake up easy. The average duration of one \"phase\" of light sleep is about 20 minutes.";
+"A Deep sleep. Thanks to the deep sleep our body feels rested in the morning. If you wake up during a deep sleep, you will probably feel tired at first." = "A Deep sleep. Thanks to the deep sleep our body feels rested in the morning. If you wake up during a deep sleep, you will probably feel tired at first.";
+"REM (Rapid eye movement) is about 20-25% of the total duration of a night's sleep. At this time we have the brightest dreams. If you wake up in this phase - the dream will be remembered for a long time." = "REM (Rapid eye movement) is about 20-25% of the total duration of a night's sleep. At this time we have the brightest dreams. If you wake up in this phase - the dream will be remembered for a long time.";
+"Awakening is a moment of your conscious activity. For example, the period of falling asleep before bed, waking up in the middle of the night or waking up after sleep, when the body returns to its usual active state." = "Awakening is a moment of your conscious activity. For example, the period of falling asleep before bed, waking up in the middle of the night or waking up after sleep, when the body returns to its usual active state.";
+
+"Update data" = "Update data";
+"How do you feel today?" = "How do you feel today?";
+
+"Delete profile" = "Delete profile";
+"Yes, delete my profile" = "Yes, delete my profile";
+"Warning" = "Warning";
+"Your profile will be deleted and your data will not be possible to recover.\nAre you sure you want to continue?" = "Your profile will be deleted and your data will not be possible to recover.\nAre you sure you want to continue?";
+
+"Other settings:" = "Other settings:";
+
+"By using MISU App you automatically confirm that you have read and agree with terms of Privacy Policy" = "By using MISU App you automatically confirm that you have read and agree with terms of Privacy Policy";
+"Privacy Policy" = "Privacy Policy";

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.ChatsUpdate</string>
+		<string>com.ChatUpdate</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en-US</string>
+	<key>CFBundleDisplayName</key>
+	<string>MISU</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIcons</key>
+	<dict/>
+	<key>CFBundleIcons~ipad</key>
+	<dict/>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.836782555808-r1fm8fhhmv334hsum01b61fvas2q0kh6</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MGLMapboxAccessToken</key>
+	<string>pk.eyJ1IjoiZG1pdHJpeWN2dCIsImEiOiJjazdvbTc0bXMwOTJnM25vMnRkN3RmY3B3In0.1PZwpSFphUocjhHIabpZxA</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>APP needs continuous access to Bluetooth to connect MISU Watch</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>APP needs continuous access to Bluetooth to connect MISU Watch</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This allow you to make fast photo to your profile.</string>
+	<key>NSHealthClinicalHealthRecordsShareUsageDescription</key>
+	<string>Hello we are your friends, don't stop you never be alone again</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Hello we are your friends, don't stop you never be alone again</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Hello we are your friends, don't stop you never be alone again</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Your location is used to show you correct and relevant hospitals and doctors around you.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Your location is used to show you correct and relevant hospitals and doctors around you.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your location is used to show you correct and relevant hospitals and doctors around you.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This allow you to select the best picture.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarTintParameters</key>
+	<dict>
+		<key>UINavigationBar</key>
+		<dict>
+			<key>Style</key>
+			<string>UIBarStyleDefault</string>
+			<key>Translucent</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+</dict>
+</plist>

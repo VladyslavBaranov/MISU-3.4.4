@@ -1,0 +1,91 @@
+//
+//  MenuCalendarView.swift
+//  MISU-Test
+//
+//  Created by Vladyslav Baranov on 11.07.2022.
+//
+
+import SwiftUI
+
+struct MenuCalendarView: View {
+    
+    @State var selectedValue = Calendar.current.dateComponents([.day], from: Date()).day ?? 1
+    
+    let showsMore: Bool
+    var moreTapped: (() -> ())
+    
+    var body: some View {
+        VStack(alignment: .leading) {
+            HStack(alignment: .center, spacing: 5) {
+                Button {
+                    
+                } label: {
+                    HStack {
+                        Text(locStr("mm_str_14"))
+                            .font(CustomFonts.createInter(weight: .bold, size: 22))
+                        Image(systemName: "chevron.down")
+                            .font(CustomFonts.createInter(weight: .medium, size: 16))
+                    }
+                    .foregroundColor(Color(Style.TextColors.commonText))
+                }
+                Spacer()
+                if showsMore {
+                    Button {
+                        moreTapped()
+                    } label: {
+                        HStack {
+                            Text(locStr("mah_str_7"))
+                            Image(systemName: "chevron.right")
+                        }
+                        .font(CustomFonts.createInter(weight: .regular, size: 16))
+                        .foregroundColor(Color(Style.TextColors.mainRed))
+                    }
+                }
+            }
+            .padding([.leading, .trailing], 16)
+            
+            ZStack {
+                ScrollView(.horizontal, showsIndicators: false) {
+                    ScrollViewReader { proxy in
+                        LazyHStack(spacing: 0) {
+                            ForEach(1..<32) { number in
+                                VStack(spacing: 5) {
+                                    Text(getDayContraction(number))
+                                        .foregroundColor(selectedValue == number ? Color.white : Color(Style.TextColors.gray))
+                                        .font(CustomFonts.createInter(weight: .regular, size: 15))
+                                    Text("\(number)")
+                                        .foregroundColor(selectedValue == number ? Color.white : Color(Style.TextColors.gray))
+                                        .font(CustomFonts.createInter(weight: .bold, size: 16))
+                                }
+                                .frame(width: 60, height: 70)
+                                .id(number)
+                                .background(
+                                    RoundedRectangle(cornerRadius: 12)
+                                        .fill(selectedValue == number ? Color(Style.Stroke.blue) : Color.clear)
+                                        .scaleEffect(0.95)
+                                )
+                                .onTapGesture {
+                                    selectedValue = number
+                                }
+                            }
+                        }
+                        .onAppear {
+                            proxy.scrollTo(12, anchor: .center)
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    func getDayContraction(_ day: Int) -> String {
+        let date = "\(day)-07-2022"
+        let formatter = DateFormatter()
+        formatter.dateFormat = "d-MM-yyyy"
+        formatter.locale = Locale.current
+        formatter.timeZone = TimeZone.current
+        let date1 = formatter.date(from: date)!
+        formatter.dateFormat = "eeeeee"
+        return formatter.string(from: date1)
+    }
+}

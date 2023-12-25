@@ -1,0 +1,20 @@
+/* 
+  InfoPlist.strings
+  CoronaVirTracker
+
+  Created by WH ak on 22.09.2020.
+  Copyright © 2020 CVTCompany. All rights reserved.
+*/
+
+"NSCameraUsageDescription" = "This allows you to make a fast photo for your profile.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Your location is used to show you correct and relevant hospitals and doctors around you";
+"NSLocationAlwaysUsageDescription" = "Your location is used to show you correct and relevant hospitals and doctors around you";
+"NSLocationWhenInUseUsageDescription" = "Your location is used to show you correct and relevant hospitals and doctors around you";
+"NSPhotoLibraryUsageDescription" = "This allow you to select the best picture to your profile.";
+
+"NSBluetoothAlwaysUsageDescription" = "APP needs continuous access to Bluetooth to connect MISU Watch";
+"NSBluetoothPeripheralUsageDescription" = "APP needs continuous access to Bluetooth to connect MISU Watch";
+
+"NSHealthUpdateUsageDescription" = "MISU use HealthKit to give you access to Health data without MISU Watch and with your Apple Watch";
+"NSHealthShareUsageDescription" = "MISU use HealthKit to give you access to Health data without MISU Watch and with your Apple Watch";
+"NSHealthClinicalHealthRecordsShareUsageDescription" = "MISU use HealthKit to give you access to Health data without MISU Watch and with your Apple Watch";

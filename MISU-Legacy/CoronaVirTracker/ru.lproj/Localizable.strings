@@ -1,0 +1,377 @@
+/* 
+  Localizable.strings
+  CoronaVirTracker
+
+  Created by Dmitriy Kruglov on 4/2/20.
+  Copyright © 2020 CVTCompany. All rights reserved.
+*/
+
+"Age" = "Вік";
+"Gender" = "Стать";
+"Save" = "Зберегти";
+"Cancel" = "Відміна";
+"Select your health status (well, weak, ill)" = "Оберіть Ваш стан здоров’я (відмінно, слабкість, хвороба)";
+"Log out" = "Вихід";
+"List" = "Список";
+"Map" = "Мапа";
+"Medical ID" = "Медична картка";
+"Select symptoms" = "Виберіть симптоми";
+"High temperature" = "Висока температура";
+"Low temperature" = "Низька Температура";
+"Weakness" = "Слабкість";
+"Feel bad" = "Погане самопочуття";
+"Feel dizzy" = "Запаморочення";
+"Coughing" = "Кашель";
+"Cough" = "Кашель";
+"Sneezing" = "Чхання та нежить";
+"Stuffy nose" = "Забитий ніс";
+"Sore throat" = "Болить горло";
+"Headache" = "Головий біль";
+"Earache" = "Біль у вухах";
+"Cold" = "Морозить";
+"High blood pressure" = "Підвищений тиск";
+"Very high blood pressure" = "Дуже високий тиск";
+"Low blood pressure" = "Низький тиск";
+"Fever" = "Лихоманка";
+"Edit" = "Редагувати";
+"none" = "-";
+"male" = "Чоловіча";
+"female" = "Жіноча";
+"All" = "Усі";
+"all" = "Усі";
+"Today only" = "Лише сьогодні";
+"Statistic" = "Статистика";
+"Your location" = "Ваше місцезнаходження";
+"Temperature" = "Температура";
+"well" = "відмінно";
+"weak" = "слабкість";
+"ill" = "хвороба";
+"What I do" = "Як я лікуюся";
+"Symptoms" = "Симптоми";
+"Search" = "Пошук";
+"Done" = "Готово";
+"Location" = "Місцезнаходження";
+"You can choose your exact address or just your city or your other specific location" = "Ви можете обрати точну адресу, чи просто місто, чи іншу локацію";
+"Your Medical Card" = "Твоя медична картка";
+"Next" = "Далі";
+"Back" = "Назад";
+"Another email" = "Інша пошта";
+"Send again" = "Надіслати ще раз";
+"Welcome\nLet's start with your point" = "Ласкаво просимо\nПочнімо з вашої власної мітки";
+"Regular User" = "Звичайний користувач";
+"I'm a Doctor" = "Я лікар";
+"or" = "чи";
+"What I need ... (medical assistance, food, personal hygiene products ...)" = "Мої потреби ... (медична допомога, їжа, засоби особистої гігієни ...)";
+"Full name" = "Повне ім'я";
+
+"We need" = "Ми потребуємо";
+"We have" = "Ми маємо";
+"We got" = "Ми отримали";
+
+"Hospital statistics" = "Статистика по лікарні";
+"Example: medical masks, medicaments, bandages ..." = "Приклад: медичні маски, медикаменти, пов’язки ...";
+"Describe what do you have in abundance ..." = "Опишіть, що ви маєте в достатку ...";
+"Your diploma number" = "Номер вашого диплома";
+"Your profile is currently verifying..." = "Ваші данні наразі перевіряються...";
+"Your profile approved" = "Ваш профіль підтверджений";
+"Profile will be approved after verifying your information" = "Профіль буде підтверджено після перевірки вашої інформації";
+"Profile was denied \nPlease, check information" = "Профіль було відхилено \nБудь-ласка, перевірте ваші данні";
+"Hospital" = "Лікарня";
+"Job post" = "Посада";
+"Your full name" = "Ваше повне ім'я";
+"Full Name" = "Повне ім'я";
+
+
+
+"Chief Medical Officer (Director)" = "Головний лікар (Директор)";
+"Deputy Chief Medical Officer" = "Заступник головного лікаря";
+"Family doctor" = "Сімейний лікар";
+"Head of department" = "Завідуючий відділенням";
+"Deputy Head of Department" = "Заступник завідуючого відділенням";
+"Doctor" = "Лікар";
+"Nurse" = "Медсестра / Медбрат";
+"Medical worker" = "Медпрацівник";
+
+"(visible only for you)" = "(видимо лише для Вас)";
+
+"Add" = "Додати";
+"What does your hospital need?" = "Що потрібно вашій лікарні?";
+"Amount" = "Кількість";
+"Name" = "Назва";
+
+"Healthy" = "Здорові";
+"Suspicious" = "Підозрілі";
+"Sick" = "Хворі";
+"Deads" = "Померлі";
+
+"News" = "Новини";
+
+"Doctors" = "Лікарі";
+"Hospitals" = "Лікарні";
+"Users" = "Користувачі";
+"Profile" = "Профіль";
+
+"well" = "Здорові";
+"weak" = "Підозрілі";
+"ill" = "Хворі";
+"dead" = "Померлі";
+
+"Sex" = "Стать";
+"Message" = "Написати";
+"Family doctor" = "Сімейний лікар";
+
+"Position" = "Посада";
+"Patients" = "Пацієнти";
+
+"Your profile" = "Ваш профіль";
+"Welcome" = "Вітаємо";
+"Email or phone" = "Email чи номер телефону";
+
+"Log in" = "Увійти";
+"Create new" = "Створити новий";
+
+"Verification code has been sent to your inbox" = "На вашу пошту надіслано код підтвердження";
+"Verification code has been sent to your number" = "На ваш номер надіслано код підтвердження";
+"Send again" = "Надіслати ще раз";
+
+"Select your profile" = "Виберіть ваш профіль";
+"I'm a patient" = "Я пацієнт";
+"I'm a doctor" = "Я лікар";
+
+"Message" = "Повідомлення";
+"Add your family doctor" = "Додайте сімейного лікаря";
+"Blood sugar (mmol/L)" = "Цукор в крові (ммоль/л)";
+"Medical tests" = "Аналізи";
+
+"The user did not specify the number" = "Користувач не вказав номер";
+"All Chats" = "Всі чати";
+"See all" = "Переглянути всіх";
+"Settings" = "Налаштування";
+"Log out" = "Вийти з акаунту";
+"Number of a diploma №..." = "Номер диплому №...";
+"New message" = "Нове повідомлення";
+"Send" = "Надіслати";
+
+"Phone number" = " Номер телефону";
+
+"Sugar" = "Цукор в крові";
+"Insulin" = "Інсулін";
+
+"Insulin (ml)" = "Інсулін (мл)";
+"Almost done, last questions" = "Майже закінчили, останні запитання";
+"Questions?" = "Запитання?";
+
+"Your birthday:" = "День народження:";
+"Man" = "Чоловіча";
+"Woman" = "Жіноча";
+
+"Hide" = "Сховати";
+"Show" = "Показати";
+"Number:" = "Телефон:";
+
+"Yes" = "Так";
+"Keep me here" = "Залишитись в системі";
+
+"Clear cache" = "Очистити кеш";
+"Medical history" = "Історія хвороб";
+"Clear" = "Очистити";
+"Keep" = "Залишити";
+
+"Not confirmed yet" = "Ще не підтверджено";
+"Passed tests" = "Підтверджено аналізами";
+"Diagnosed by a doctor" = "Діагностовано лікарем";
+
+"Sick" = "Хворий";
+"Recuperate" = "Одужав";
+"Chronic" = "Хронічно";
+"Select Illness" = "Оберіть хворобу";
+"Select" = "Обрати";
+
+"Today" = "Сьогодні";
+"Week" = "Тиждень";
+"Month" = "Місяць";
+"All time" = "Весь час";
+
+"Blood oxygen" = "Насичення киснем";
+"Temperature" = "Температура";
+"Heart rate" = "Серцебиття";
+
+"Connect" = "Під'єднати";
+"Disconnect" = "Від'єднати";
+"Connected" = "Під'єднано";
+
+"Get MISU Watch" = "Отримати MISU Watch";
+"Add device" = "Під'єднати браслет";
+
+"state" = "Стан";
+"temperature" = "Температура";
+"symptoms" = "Симптоми";
+
+"Your recommendations for patient" = "Ваші рекомендаціїї для пацієнта";
+"Recommendations" = "Рекомендації";
+"Doctor recommendations" = "Рекомендації лікаря";
+"All Recommendations" = "Всі рекомендації";
+
+"More info or Questions" = "Більше інфо або Питання";
+
+"Copy" = "Копіювати";
+
+"Family access" = "Сімейний доступ";
+"Skip" = "Пропустити";
+"Invite your family and friends to MISU Family to access each other's health" = "Запросіть ваших рідних та близьких до МІСУ Сім'я, щоб отримати доступ до стану здоров'я один одного";
+"Invitation sent" = "Запрошення надіслано";
+
+"info" = "Інформація";
+"participants" = "Учасники";
+"pending" = "В очікуванні";
+
+"Accept" = "Прийняти";
+"Decline" = "Відхилити";
+"Pending..." = "В очікуванні...";
+"Accepted" = "Прийнято";
+"Declined" = "Відхилено";
+
+"Administrator" = "Організатор";
+"Order" = "Замовити";
+"Ordered" = "Замовлено";
+"Order medicine" = "Замовити ліки";
+"In pending" = "В очікуванні";
+"Send invite" = "Надіслати запрошення";
+"Delete Group" = "Видалити групу";
+"Leave group" = "Покинути групу";
+"Delete participant" = "Видалити учасника";
+"Delete invite" = "Видалити запрошення";
+"No" = "Ні";
+
+"Monitor your health easy and automatically" = "Слідкуйте за станом здоров'я легко та зручно";
+"Health Intensive Monitoring" = "Інтенсивний моніторинг здоров'я";
+"Turn on" = "Увімкнути";
+"Reconnect MISUWatch" = "Перепідключіть MISUWatch";
+"Try login again" = "Спробуйте авторизуватись знову";
+"Activated" = "Активовано";
+"NOT Activated" = "НЕ Активовано";
+"Health parameters are updated once per:" = "Показники здоров'я оновлюються раз в:";
+"minutes" = "хвилин";
+
+"Intensive health monitoring - a mode in which your health (heart rate and temperature) will be scanned more often" = "Інтенсивний моніторинг здоров’я - режим в якому показники вашого здоров'я (серцебиття та температура) будуть скануватись частіше";
+"Your family doctor and users in your family group will be alerted if the readings are out of range" = "Ваш сімейний лікар та користувачі з вашої сімейної групи будуть попереджені у випадку якщо показники виходять за межі норми";
+"In order for the mode to work, you must provide access to the VPN and not turn off the VPN in the settings" = "Для роботи режиму необхідно надати доступ до VPN та не вимикати VPN в налаштуваннях телефону";
+"In order for the mode to work, you must provide access to the VPN and not turn off the VPN in the settings. VPN makes connection between servers, MISU  and MISUWatch more stable and safe" = "Для роботи режиму необхідно надати доступ до VPN та не вимикати VPN в налаштуваннях телефону. VPN робить зв’язок між серверами, MISU та MISUWatch більш стабільним та безпечним";
+"Try again" = "Спробувати ще раз";
+"Blood pressure" = "Кров'яний тиск";
+"Analyzes" = "Аналізи";
+"For diabetics" = "Для діабетиків";
+"Help" = "Допомога";
+
+"We are working on this and will fix it soon" = "Ми працюємо над цим та в найближчий час виправимо";
+"Functionality temporarily unavailable" = "Функціонал тимчасово недоступний";
+"Okey" = "Зрозуміло";
+"Select hospital" = "Оберіть мед. заклад";
+
+"Make sure the MISU Watch is not connected to other devices" = "Переконайтесь що MISU Watch не підключено до інших пристроїв";
+"Tap" = "Натисніть";
+"to reload" = "щоб оновити";
+
+"Watch" = "Браслет";
+
+"Such credentials already taken :(" = "Такий користувач вже існує. Спробуйте \"Увійти\" :(";
+"Such user does not exist :(" = "Такого користувача неіснує. Спробуйте \"Зареєструватись\"";
+
+"Please check your network connection ..." = "Перевірте підключення до інтеренету ...";
+"Could not decode the response ..." = "Помилка, перевірте данні та спробуйте ще раз ...";
+"Error, check data and try again ..." = "Помилка, перевірте данні та спробуйте ще раз ...";
+
+"Pressure calibration" = "Калібрування тиску";
+"Measure the pressure with a tonometer and enter result:" = "Виміряйте тиск тонометром і введіть результат:";
+"Tap to edit" = "Торкніться, щоб редагувати";
+"Select “Pressure” on the bracelet" = "Оберіть пункт “Pressure” на браслеті";
+"Press the button as shown in the image" = "Затисніть кнопку як показано на зображені";
+"The data will be received automatically" = "Данні будуть отримані автоматично";
+"Successful calibration" = "Успішне калібрування";
+"Processing ..." = "Обробка ...";
+"All pressure indicators will be individually adjusted to your characteristics" = "Всі показники тиску будуть індивідуально підлаштовуватись під ваші особливості";
+"Calibrate" = "Калібрувати";
+"Needs calibration" = "Потрібне калібрування";
+"Updating..." = "Оновлення...";
+
+"Prevention of Covid-19" = "Профілактика Covid-19";
+"• Keep the rules of hand hygiene. Wash your hands often with soap or treat them with an alcohol-based hand antiseptic. \n• Keep the distance from people who sneezes or coughs. \n• Wear a mask, where you are surrounded by other people. \n• Don't touch your eyes or nose by hand. \n• During sneezing or coughing cover your mouth and nose with an elbow or handkerchief. \n• If you are feeling bad, please, stay home. \n• If you have a fever, cough, or shortness of breath, visit a doctor." = "• Дотримуйтесь правил гігієни рук. Часто мийте руки водою з милом або обробляйте їх спиртовмісним антисептиком. \n• Тримайтеся на безпечній відстані від людей, хто чхає або кашляє. \n• Носіть маску, коли перебуваєте в публічних місцях. \n• Не торкайтеся руками до очей, рота або носа. \n• При кашлі або чханні, прикривайте рот і ніс згином ліктя або хусткою. \n• Якщо ви відчуваєте нездужання, залишайтеся вдома. \n• У разі підвищення температури, прояву кашлю і задишки, зверніться за медичною допомогою.";
+"• If you have a fever, cough, or shortness of breath, visit a doctor." = "• У разі підвищення температури, прояву кашлю і задишки, зверніться за медичною допомогою.";
+"visit a doctor." = "зверніться за медичною допомогою.";
+
+"• Tell your doctor about symptoms and history of travel. You need to tell whether you have been in contact with people who could potentially become infected (for example, people who have returned from countries with a local spread of the virus).\n• Follow your doctor's instructions \n\n❌ You do not need to make your own decisions and go for testing for COVID-19\n• Firstly, the decision to make a test is making by your family doctor or therapist. \n• At second, the risk of catching the virus in a laboratory or hospital increases if there is a person with the coronavirus nearby." = "• Опишіть своєму лікарю симптоми, історію подорожей. Окремо потрібно розповісти, чи були ви в контакті з людьми, які потенційно можуть бути інфіковані (наприклад, такими, що повернулися з країн з місцевим розповсюдженням вірусу).\n• Виконуйте інструкції свого лікаря \n\n❌ Не потрібно самостійно приймати рішення та йти на тестування стосовно наявності COVID-19\n• По-перше, рішення про необхідність тестування приймає ваш сімейний лікар або терапевт.\n• По-друге, в лабораторії та лікарні збільшується ризик підхопити вірус, якщо поруч буде людина з коронавірусом";
+"❌ You do not need to make your own decisions and go for testing for COVID-19" = "❌ Не потрібно самостійно приймати рішення та йти на тестування стосовно наявності COVID-19";
+"What I need to do if I am at risk group" = "Що робити, якщо я у групі ризику";
+
+"Body mass index" = "Індекс маси тіла";
+"• Body mass index (BMI) - a value that allows you to assess the degree of compliance of human mass and height, and then, indirectly assess whether the mass is insufficient, normal or excessive\n\nAdult BMI Calculator:\nBelow 18.5       Underweight\n18.5—24.9        Normal\n25.0—29.9        Overweight\n30.0 and above   Obese\n\n• BMI is a person’s weight in kilograms divided by the square of height in meters. A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual" = "• Індекс маси тіла (ІМТ) — величина, що дозволяє оцінити ступінь відповідності маси людини та її зросту, й тим самим, непрямо оцінити, чи є маса недостатньою, нормальною, надмірною\n\nКалькулятор ІМТ для Дорослих:\nНижче 18,5    Низька вага\n18,5—24,9     Нормальна\n25,0—29,9     Надмірна вага\n30,0 і вище   Ожиріння\n\n• ІМТ - це вага людини у кілограмах, поділена на квадрат зросту у метрах. Високий ІМТ може свідчити про високу повноту тіла. ІМТ визначає вагові категорії, які можуть призвести до проблем зі здоров’ям, але не діагностує повноту тіла чи здоров’я людини.";
+"Adult BMI Calculator:" = "Калькулятор ІМТ для Дорослих:";
+"Underweight" = "Низька вага";
+"Normal" = "Нормальна";
+"Overweight" = "Надмірна вага";
+"Obese" = "Ожиріння";
+"Below 18.5       Underweight" = "Нижче 18,5    Низька вага";
+"18.5—24.9        Normal" = "18,5—24,9     Нормальна";
+"25.0—29.9        Overweight" = "25,0—29,9     Надмірна вага";
+"30.0 and above   Obese" = "30,0 і вище   Ожиріння";
+
+"• Apnea or temporary cessation of respiratory movements during sleep.\n\n• The most common symptom is snoring in sleep" = "• Апное або тимчасове припинення дихальних рухів під час сну.\n\n• Найпоширеніший симптом - хропіння уві сні";
+
+"Undefined" = "Невизначено";
+"Risk group covid" = "Група ризику Covid";
+"Body mass index" = "Індекс маси тіла";
+"Weight" = "Вага";
+"Height (cm)" = "Зріст (см)";
+"Height" = "Зріст";
+"Body mass index" = "Індекс маси тіла";
+"Syndrome" = "Синдром";
+"Add vaccine" = "Додати вакцину";
+"Recommendation" = "Рекомендація";
+"Determine the risk" = "Визначити ризик";
+"Diagnosed" = "Діагностовано";
+"Undiagnosed" = "Недіагностовано";
+"Information is updated" = "Інформація оновлена";
+"Select vaccine and date of vaccination" = "Виберіть вакцину та дату вакцинації";
+"Fill in all the fields below" = "Заповніть усі поля нижче";
+"Sleep apnea" = "Синдром апное";
+"Yes, diagnosed" = "Так, діагностовано";
+"No, undiagnosed" = "Ні, не діагностовано";
+"Have you ever been diagnosed with sleep apnea?" = "Вам діагностували синдром апное?";
+"Give answers to question" = "Дайте відповіді на запитання";
+"You are in group of risk" = "Ви в групі ризику";
+"You are not in group of risk" = "Ви не в групі ризику";
+"Input your weight and Height" = "Введіть свою вагу та зріст";
+"The value is in group of risk" = "Показник в групі ризику";
+"The value is normal" = "Показник в нормі";
+"Fill in the information" = "Заповніть інформацію";
+"Okay" = "Зрозуміло";
+"There is no added vaccines" = "Доданих вакцин немає";
+"List of your vaccines" = "Список ваших вакцин";
+
+"Total" = "Всього";
+"Sleep" = "Сон";
+"h" = "г";
+"m" = "х";
+"Awake" = "Пробудження";
+"REM" = "Швидкий";
+"Begin" = "Засинання";
+"Deep" = "Глибокий";
+"Light" = "Легкий";
+
+"A Light sleep is a slow sleep, but not in its deepest manifestations, during which you can wake up easy. The average duration of one \"phase\" of light sleep is about 20 minutes." = "Легкий сон  - це повільний сон, але не в найглибших його проявах, підчас якого ви можете легко прокинутися.  Середня тривалість однієї «порції» такого сну - близько 20 хвилин.";
+"A Deep sleep. Thanks to the deep sleep our body feels rested in the morning. If you wake up during a deep sleep, you will probably feel tired at first." = "Глибокий сон. Саме завдяки йому наше тіло відчуває себе відпочившим вранці. Якщо ви прокинетесь під час глибокого сну, спочатку, мабуть, почуватиметеся втомленим.";
+"REM (Rapid eye movement) is about 20-25% of the total duration of a night's sleep. At this time we have the brightest dreams. If you wake up in this phase - the dream will be remembered for a long time." = "Швидкий сон становить близько 20-25% всієї тривалості нічного сну.  Саме в цей час нам сняться найяскравіші сновидіння. Якщо прокинутися у таку фазу – сон запам'ятається надовго.";
+"Awakening is a moment of your conscious activity. For example, the period of falling asleep before bed, waking up in the middle of the night or waking up after sleep, when the body returns to its usual active state." = "Пробудження - це момент вашої свідомої активності. Наприклад період засинання перед сном, пробудження посеред ночі чи прокидання після сну, коли організм повертається у звичний активний стан.";
+
+"Update data" = "Оновити дані";
+"How do you feel today?" = "Як ви почуваєтесь сьогодні?";
+
+"Delete profile" = "Видалити профіль";
+"Yes, delete my profile" = "Так, видалити мій профіль";
+"Warning" = "Увага";
+"Your profile will be deleted and your data will not be possible to recover.\nAre you sure you want to continue?" = "Ваш профіль буде видалено та відновити данні буде неможливо.\nВи впевнені що хочете продовжити?";
+
+"Other settings:" = "Інші налаштування:";
+
+"By using MISU App you automatically confirm that you have read and agree with terms of Privacy Policy" = "Використовуючи застосунок MISU, ви автоматично підтверджуєте, що прочитали та погоджуєтеся з умовами Політики конфіденційності";
+"Privacy Policy" = "Політики конфіденційності";

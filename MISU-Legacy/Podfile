@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '13.0'
+
+target 'CoronaVirTracker' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for CoronaVirTracker
+  pod 'Mapbox-iOS-SDK'
+  pod 'SwiftKeychainWrapper'
+  pod 'MapboxGeocoder.swift'
+  pod 'Charts'
+  pod 'PhoneNumberKit'
+  pod 'Firebase/Auth'
+end
+
+target 'WatchVPN' do
+  use_frameworks!
+  pod 'SwiftKeychainWrapper'
+end
